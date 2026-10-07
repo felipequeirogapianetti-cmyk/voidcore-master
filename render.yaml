@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: voidcore-master
+    env: python
+    buildCommand: ""
+    startCommand: python master_server.py
+    envVars:
+      - key: VOIDCORE_ADMIN_PASS
+        value: voidcore_admin_2026

@@ -1,0 +1,2 @@
+# VoidCore Master Control Server
+# Usa 100% biblioteca padrão do Python (Zero dependências obrigatórias)
